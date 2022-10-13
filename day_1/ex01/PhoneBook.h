@@ -8,7 +8,7 @@
 #include "myAPB.h"
 #include "Contact.h"
 
-const short	PHONE_BOOK_MEMORY = 3;
+const short	PHONE_BOOK_MEMORY = 8;
 class	PhoneBook {
 	public:
 		PhoneBook();
